@@ -1,7 +1,7 @@
 /****************************************************************************
  *
  * Created by: James Lee
- * Created on: Mar 2019
+ * Created on: Apr 2019
  * Created for: ICS4U
  * This program creates all the magic squares with magic number 15 (numbers
  * from 1 to 9)
